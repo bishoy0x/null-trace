@@ -1,7 +1,4 @@
-# Shell Arguments
-
-> **Module:** Linux Luminarium — Pondering Paths  
-> **Platform:** pwn.college  
+# Shell Arguments 
 > **Author:** [bishoy0x](https://github.com/bishoy0x/null-trace)
 
 ---
