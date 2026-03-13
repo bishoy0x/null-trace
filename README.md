@@ -1,2 +1,12 @@
 # null-trace
-Tracing the untraceable — documenting my path through binary exploitation and reverse engineering on pwn.college.
+
+Tracing the untraceable.
+
+16. Cairo. Self-taught.
+Breaking things until they make sense.
+
+pwn.college → Blue Belt.
+```
+
+---
+```
