@@ -6,6 +6,3 @@ Tracing the untraceable.
 Breaking things until they make sense.
 
 pwn.college → Blue Belt.
-```
-
----
