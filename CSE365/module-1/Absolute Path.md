@@ -53,7 +53,3 @@ Absolute path works like a street address — "13 Nile St, Cairo, Egypt" finds t
 2. [CWE-22](https://cwe.mitre.org/data/definitions/22.html) — Improper Limitation of a Pathname to a Restricted Directory
 3. Michael Kerrisk — *The Linux Programming Interface*, Chapter 18 (Directories and Links)
 
----
-
-> **Confidence:** High · **Flags:** None · **Version:** v4.0  
-> **Suggested next:** Relative paths and working directory (`pwd`, `cd`, `./`)
