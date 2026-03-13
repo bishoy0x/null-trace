@@ -9,4 +9,3 @@ pwn.college → Blue Belt.
 ```
 
 ---
-```
